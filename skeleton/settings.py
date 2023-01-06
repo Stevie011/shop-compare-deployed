@@ -31,6 +31,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['shop-compare-env.eba-axhpgjvs.us-west-2.elasticbeanstalk.com',
                  '127.0.0.1',
+                 '44.236.226.28',
+                 '52.40.86.206',
+                 '172.31.21.123',
+                 '172.31.36.65',
                  ]
 
 
